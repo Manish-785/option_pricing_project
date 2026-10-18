@@ -13,3 +13,6 @@ data/
 Thumbs.db
 .vscode/
 .idea/
+
+# Synthetic test output (from test_pipeline_synthetic.py)
+figures/test_fig*.png
